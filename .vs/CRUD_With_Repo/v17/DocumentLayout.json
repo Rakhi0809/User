@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\CRUD_With_Repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\crud_with_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\crud_with_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|f:\\projects\\crud_with_repo\\crud_with_repo\\migrations\\20241216094320_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885FC3A-0A03-42D0-802D-7D17BADC8406}|CRUD_With_Repo\\CRUD_With_Repo.csproj|solutionrelative:crud_with_repo\\migrations\\20241216094320_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Data\\ApplicationContext.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:41:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Repository\\UserService.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Repository\\UserService.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Repository\\UserService.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Repository\\UserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:09:11.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Program.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Program.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:33:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Model\\User.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Model\\User.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Model\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:34:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\appsettings.json",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\appsettings.json",
+              "RelativeToolTip": "CRUD_With_Repo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T12:26:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:36:50.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Repository\\IUser.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Repository\\IUser.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Repository\\IUser.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Repository\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:15:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241216094320_User.cs",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Migrations\\20241216094320_User.cs",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\Migrations\\20241216094320_User.cs",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\Migrations\\20241216094320_User.cs",
+              "RelativeToolTip": "CRUD_With_Repo\\Migrations\\20241216094320_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:43:20.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRUD_With_Repo.csproj",
+              "DocumentMoniker": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj",
+              "RelativeDocumentMoniker": "CRUD_With_Repo\\CRUD_With_Repo.csproj",
+              "ToolTip": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj",
+              "RelativeToolTip": "CRUD_With_Repo\\CRUD_With_Repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T09:31:39.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
