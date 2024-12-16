@@ -23,11 +23,11 @@ namespace CRUD_With_Repo.Migrations
 
             modelBuilder.Entity("CRUD_With_Repo.Model.User", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("UserId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -47,9 +47,9 @@ namespace CRUD_With_Repo.Migrations
                     b.Property<int>("Pincode")
                         .HasColumnType("integer");
 
-                    b.HasKey("UserId");
+                    b.HasKey("Id");
 
-                    b.ToTable("User");
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

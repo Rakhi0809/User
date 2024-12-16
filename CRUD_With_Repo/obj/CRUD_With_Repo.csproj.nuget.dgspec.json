@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj": {}
+    "/Users/shekharsingh/Projects/User/CRUD_With_Repo/CRUD_With_Repo.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj": {
+    "/Users/shekharsingh/Projects/User/CRUD_With_Repo/CRUD_With_Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj",
+        "projectUniqueName": "/Users/shekharsingh/Projects/User/CRUD_With_Repo/CRUD_With_Repo.csproj",
         "projectName": "CRUD_With_Repo",
-        "projectPath": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\CRUD_With_Repo.csproj",
-        "packagesPath": "C:\\Users\\Rakhi\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\CRUD_With_Repo\\CRUD_With_Repo\\obj\\",
+        "projectPath": "/Users/shekharsingh/Projects/User/CRUD_With_Repo/CRUD_With_Repo.csproj",
+        "packagesPath": "/Users/shekharsingh/.nuget/packages/",
+        "outputPath": "/Users/shekharsingh/Projects/User/CRUD_With_Repo/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rakhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/shekharsingh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -98,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

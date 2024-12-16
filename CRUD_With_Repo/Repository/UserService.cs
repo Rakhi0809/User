@@ -1,8 +1,6 @@
 ﻿using CRUD_With_Repo.Data;
-using CRUD_With_Repo.Model; // Ensure this is the namespace of your User model
+using CRUD_With_Repo.Model;
 using Microsoft.EntityFrameworkCore;
-
-
 
 namespace CRUD_With_Repo.Repository
 {
@@ -15,14 +13,11 @@ namespace CRUD_With_Repo.Repository
             _context = context;
         }
 
-        //public async Task<IEnumerable<User>> GetUsersAsync()
-        //{
-        //    return await _context.Users.ToListAsync();
-        //}
-
-        Task<IEnumerable<Migrations.User>> IUser.GetUsersAsync()
+        public async Task<IEnumerable<User>> GetUsersAsync()
         {
             return await _context.Users.ToListAsync();
         }
+
+       
     }
-    }
+}

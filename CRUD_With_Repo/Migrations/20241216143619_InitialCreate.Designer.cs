@@ -11,8 +11,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CRUD_With_Repo.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20241216094320_User")]
-    partial class User
+    [Migration("20241216143619_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,11 +26,11 @@ namespace CRUD_With_Repo.Migrations
 
             modelBuilder.Entity("CRUD_With_Repo.Model.User", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("UserId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -50,9 +50,9 @@ namespace CRUD_With_Repo.Migrations
                     b.Property<int>("Pincode")
                         .HasColumnType("integer");
 
-                    b.HasKey("UserId");
+                    b.HasKey("Id");
 
-                    b.ToTable("User");
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

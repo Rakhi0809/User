@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "UygfWnO72dTJNncZAmGOybJ1sAHFjZjocOZWa48QvHA=",
+  "Hash": "mvaBszS+1k9t3s8q8oF5ZTZuVvWlDF59a5+gVkuv/RU=",
   "Source": "CRUD_With_Repo",
   "BasePath": "_content/CRUD_With_Repo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

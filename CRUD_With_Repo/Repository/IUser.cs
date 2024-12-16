@@ -1,4 +1,4 @@
-﻿using CRUD_With_Repo.Migrations;
+﻿using CRUD_With_Repo.Model;
 
 namespace CRUD_With_Repo.Repository
 {

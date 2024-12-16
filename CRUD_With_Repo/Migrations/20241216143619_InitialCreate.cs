@@ -6,16 +6,16 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CRUD_With_Repo.Migrations
 {
     /// <inheritdoc />
-    public partial class User : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "User",
+                name: "Users",
                 columns: table => new
                 {
-                    UserId = table.Column<int>(type: "integer", nullable: false)
+                    Id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     Name = table.Column<string>(type: "text", nullable: false),
                     Gender = table.Column<string>(type: "text", nullable: false),
@@ -25,7 +25,7 @@ namespace CRUD_With_Repo.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_User", x => x.UserId);
+                    table.PrimaryKey("PK_Users", x => x.Id);
                 });
         }
 
@@ -33,7 +33,7 @@ namespace CRUD_With_Repo.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "User");
+                name: "Users");
         }
     }
 }
